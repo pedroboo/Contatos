@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\bin\Debug\ContatosDB.mdf
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\bin\Debug\ContatosDB_log.ldf
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\bin\Debug\Contatos.exe.config
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\bin\Debug\Contatos.exe
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\bin\Debug\Contatos.pdb
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.exe
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.pdb
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\bin\Debug\Contatos.exe.manifest
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\bin\Debug\Contatos.application
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.exe.manifest
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.application
+C:\Users\Pedro\Desktop\passado\gitBoom\Contatos\obj\Debug\Contatos.lst_contato.resources
